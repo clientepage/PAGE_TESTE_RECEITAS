@@ -4,7 +4,7 @@ import CountdownTimer from './CountdownTimer';
 
 const Header: React.FC = () => {
   return (
-    <header role= w-full bg-red-600 text-white shadow-2xl">
+    <header role="banner" className="fixed top-0 left-0 right-0 z-[9999] w-full bg-red-600 text-white shadow-2xl">
       <div className="w-full px-3 py-2 md:px-4 md:py-3">
         <div className="flex flex-col gap-2 md:flex-row md:items-center md:justify-between">
           <div className="flex items-center justify-center gap-2 text-xs md:text-sm font-black text-center w-full md:w-auto">
