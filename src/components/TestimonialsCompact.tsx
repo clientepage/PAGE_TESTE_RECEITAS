@@ -7,14 +7,14 @@ const TestimonialsCompact: React.FC = () => {
       name: 'Roberto L.',
       age: 58,
       city: 'RS',
-      video: 'https://i.imgur.com/u6bF0FY.mp4',
+      video: 'https://i.imgur.com/aBTqIAS.mp4',
       benefit: 'Controlei diabetes naturalmente'
     },
     {
       name: 'Carlos M.',
       age: 52,
       city: 'MG',
-      video: 'https://i.imgur.com/rzUgSjC.mp4',
+      video: 'https://i.imgur.com/yBTDMWc.mp4',
       benefit: 'Pressão normalizada em 3 semanas'
     },
     {
@@ -28,7 +28,7 @@ const TestimonialsCompact: React.FC = () => {
       name: 'Carla M.',
       age: 55,
       city: 'DF',
-      video: 'https://i.imgur.com/OLiohVn.mp4',
+      video: 'https://i.imgur.com/ox6dxSE.mp4',
       benefit: 'Economizei mais de R$2.000'
     },
     {
@@ -42,7 +42,7 @@ const TestimonialsCompact: React.FC = () => {
       name: 'Maria S.',
       age: 48,
       city: 'SP',
-      video: 'https://i.imgur.com/77TNpQy.mp4',
+      video: 'https://i.imgur.com/zPP5cft.mp4',
       benefit: 'Eliminei dores nas articulações'
     }
   ];
